@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kingstea/vitae-aspernatur-incidunt",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,19 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kingstea/vitae-aspernatur-incidunt.git"
   },
   "dependencies": {
+    "@kingstea/bug-free-octo-waddle": "^1.0.0",
+    "@kingstea/consequuntur-reiciendis-explicabo": "^1.0.0",
+    "@kingstea/dolorem-facilis-laudantium": "^1.0.0",
+    "@kingstea/eius-praesentium-nostrum": "^1.0.0",
+    "@kingstea/possimus-repellendus-animi": "^1.0.0",
+    "@kingstea/quam-in-occaecati": "^1.0.0",
+    "@kingstea/quis-aspernatur-dolorum": "^1.0.0",
+    "@kingstea/quisquam-laudantium-tempore": "^1.0.0",
+    "@kingstea/rerum-repellat-omnis": "^1.0.0",
+    "@kingstea/sint-dolorum-cumque": "^1.0.0",
+    "@kingstea/vero-consectetur-ab": "^1.0.0"
   }
 }
